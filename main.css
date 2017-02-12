@@ -1,0 +1,40 @@
+.wrapper {
+    height:100%;
+    
+}
+#content {
+	background-color: #ebebe0;
+}
+#pagrindinis{
+	height:100%;
+}
+#foto{
+    opacity: 0.3;
+}
+h1 {
+    text-align: center;
+}
+
+td, th {
+    text-align: center;
+    line-height: 36px;
+    border-bottom: 1px solid lightgrey;
+}
+#color{
+    color: #00cca3;
+}
+#tekstas{
+    color: black;
+}
+#pav{
+    color: #737373;
+}
+#table {
+	width: 100%;
+    border: none;
+    font-size: 18px;
+}
+ul{
+    position:relative;
+    left:43%;
+}
